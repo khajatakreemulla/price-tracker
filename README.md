@@ -6,7 +6,7 @@ This project is a real-time price tracker application that fetches and displays 
 
 Before running the application, ensure you have the following installed:
 
-- Node.js (version >= 16.0.0)
+- Node.js (version >= 16.0.0) for backend and (version >= 18.0.0) for frontend
 - npm (Node Package Manager)
 - MongoDB (running locally or accessible via a remote URL)
 - Git (optional, for cloning the repository)
